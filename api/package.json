@@ -1,12 +1,1 @@
-{
-  "name": "daily-life-boost",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "start": "echo \"static site; serverless api via /api\"",
-    "deploy": "echo \"deploy on Vercel\""
-  },
-  "dependencies": {
-    "@supabase/supabase-js": "^2.21.0"
-  }
-}
+
